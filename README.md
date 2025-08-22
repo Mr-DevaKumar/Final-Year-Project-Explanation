@@ -1,4 +1,4 @@
-Final Year Project Portfolio
+### Final Year Project Portfolio
 A sophisticated, single-page website portfolio built to present and evaluate five innovative final year project concepts. This site serves as a digital pitch deck for an academic panel, showcasing a range of technical skills from IoT and AI to creative computation.
 
 Live Demo: [https://final-year-project-explanation.vercel.app/](https://final-year-project-explanation.vercel.app/)
