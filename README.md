@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+Final Year Project Portfolio
+A sophisticated, single-page website portfolio built to present and evaluate five innovative final year project concepts. This site serves as a digital pitch deck for an academic panel, showcasing a range of technical skills from IoT and AI to creative computation.
 
-## Project info
+Live Demo: [https://final-year-project-explanation.vercel.app/](https://final-year-project-explanation.vercel.app/)
 
-**URL**: https://lovable.dev/projects/bda6c350-acee-425e-ac35-02810e791c11
+🌐 About The Website
+This portfolio was designed to go beyond a simple list of ideas. It provides a structured framework for evaluating each project based on Originality, Feasibility, and Impact. Each project is presented with a clear problem statement, proposed solution, target audience, tech stack, and its academic foundation, mimicking a professional venture pitch.
 
-## How can I edit this code?
+The design is modern and interactive, featuring a glass-morphism aesthetic, smooth animations, and a responsive layout to ensure a great experience on all devices.
 
-There are several ways of editing your application.
+📋 Featured Project Concepts
+Guardian Forest
 
-**Use Lovable**
+Concept: Real-time deforestation detection using satellite imagery and IoT sensors.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bda6c350-acee-425e-ac35-02810e791c11) and start prompting.
+Tech: Python, Google Earth Engine, IoT (ESP32/LoRa), CNN AI.
 
-Changes made via Lovable will be committed automatically to this repo.
+Academic Basis: Remote Sensing & Bioacoustics.
 
-**Use your preferred IDE**
+AppealBot
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Concept: An AI chatbot that automates the process of disputing parking tickets.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tech: NLP (GPT-4/Llama), Legal DB Scraping, Streamlit/Gradio.
 
-Follow these steps:
+Academic Basis: Legal Natural Language Processing (NLP).
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+PhytoSonics
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Concept: An art installation that generates ambient music from plant biofeedback signals.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Tech: Arduino/Raspberry Pi, Plant Sensors, Python (Librosa).
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Academic Basis: Data Sonification & HCI.
 
-**Edit a file directly in GitHub**
+Tourist Connect
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Concept: A platform connecting tourists directly with local guides and hidden gems.
 
-**Use GitHub Codespaces**
+Tech: React/Node.js, Maps API, Payment Gateway.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Academic Basis: Tourism Recommender Systems.
 
-## What technologies are used for this project?
+Forensic DNA Editor
 
-This project is built with:
+Concept: A desktop application for visualizing and analyzing DNA sequences.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Tech: Python, PyQt, Biopython.
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bda6c350-acee-425e-ac35-02810e791c11) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Academic Basis: Bioinformatics & Computational Biology.
